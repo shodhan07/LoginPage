@@ -241,7 +241,7 @@ margin-right: 79%;
 .social-icons a{
     border: 1px solid #ccc;
     border-radius: 20%;
-    display: inline-flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     margin: 0 3px;
