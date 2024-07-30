@@ -49,5 +49,5 @@ function validatePassword() {
     }
 }
 function openWebsite(){
-    window.open("https://vaultofcodes.com/",'_blank');
+    window.open("",'_blank');
 }
